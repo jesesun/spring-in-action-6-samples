@@ -1,4 +1,5 @@
 # Spring in Action, 6th Edition Sample Code
+[![Build and run tests with Maven](https://github.com/habuma/spring-in-action-6-samples/actions/workflows/maven.yml/badge.svg)](https://github.com/habuma/spring-in-action-6-samples/actions/workflows/maven.yml)
 
 This repo will hold the sample code from [Spring in Action, 6th edition](https://www.manning.com/books/spring-in-action-sixth-edition).
 
